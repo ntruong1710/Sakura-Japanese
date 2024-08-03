@@ -85,7 +85,7 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 Hiện tại, dự án chỉ bao gồm phần thiết kế giao diện bằng Figma. Các bước triển khai sẽ được cập nhật sau khi phát triển hoàn thành.
 
 ### Cách mở web demo
-1. Truy cập [Figma](https://www.figma.com/proto/2veztJ7bWh1YxoK4zm9iwx/Nh%C3%B3m-2---%C4%90%E1%BB%93-%C3%A1n-IE106?page-id=0%3A1&node-id=2869-45681&viewport=-9873%2C-13811%2C0.28&t=1sC87wp83ULnDklq-1&scaling=scale-down-width&starting-point-node-id=2137%3A20840&content-scaling=fixed&show-proto-sidebar=1).
+1. Truy cập [Link demo](https://www.figma.com/proto/2veztJ7bWh1YxoK4zm9iwx/Nh%C3%B3m-2---%C4%90%E1%BB%93-%C3%A1n-IE106?page-id=0%3A1&node-id=2869-45681&viewport=-9873%2C-13811%2C0.28&t=1sC87wp83ULnDklq-1&scaling=scale-down-width&starting-point-node-id=2137%3A20840&content-scaling=fixed&show-proto-sidebar=1).
 2. Chọn chế độ "Fit width" và xem ở chế độ "Full screen".
 3. Bắt đầu tương tác với giao diện. Prototyping của Sakura Japanese được thiết kế vô cùng đầy đủ và chi tiết, không khác gì một website thật.
 
