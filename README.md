@@ -95,7 +95,7 @@ Tôi hoan nghênh mọi đóng góp để hoàn thiện dự án này. Nếu b�
 
 ## Liên hệ
 
-Nếu có bất kỳ câu hỏi hoặc phản hồi nào, vui lòng liên hệ qua email: [email(mailto:ntruong0961@gmail.com).
+Nếu có bất kỳ câu hỏi hoặc phản hồi nào, vui lòng liên hệ qua email: ntruong0961@gmail.com.
 
 ---
 
