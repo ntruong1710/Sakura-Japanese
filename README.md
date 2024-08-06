@@ -19,7 +19,7 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 ### Trang chủ
 
 ![Trang chủ](images/Trang_chu.png)
-![Về chúng tôi](images/Ve-chung-toi.png)
+![Về chúng tôi](images/VE-CHUNG-TOI(2).png)
 ![Khóa học mới](images/Khoa-hoc-moi.png)
 ![Tài liệu học tâp](images/Trang_chu_tai_lieu.png)
 ![Phương châm](images/Phuong_cham.png)
