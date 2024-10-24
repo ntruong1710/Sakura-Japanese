@@ -78,9 +78,8 @@
 ### 使用技術
 
 - **インターフェースデザイン**: Figma。
-- **フロントエンド（予定）**: HTML、CSS、JavaScript。
-- **バックエンド（予定）**: Node.js、Express.js、またはDjango。
-- **データベース（予定）**: MySQL、MongoDB。
+- **フロントエンド（予定）**: React、TailWind CSS。
+- **バックエンド（予定）**: Node.js、MongoDB。
 
 ### インストールと使用方法
 
@@ -183,9 +182,8 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 ## Công nghệ sử dụng
 
 - **Thiết kế giao diện**: Figma.
-- **Frontend (dự kiến)**: HTML, CSS, JavaScript.
-- **Backend (dự kiến)**: Node.js, Express.js hoặc Django.
-- **Cơ sở dữ liệu (dự kiến)**: MySQL, MongoDB.
+- **Frontend (dự kiến)**: React、TailWind CSS.
+- **Backend (dự kiến)**: Node.js, MongoDB.
 
 ## Cài đặt và sử dụng
 
