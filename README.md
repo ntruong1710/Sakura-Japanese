@@ -65,8 +65,6 @@
 #### チャットページ
 ![チャットページ](images/Chat.png)
 
-#### 通知ページ
-![通知ページ](images/Thong_bao.png)
 
 ### 主な機能
 
@@ -169,8 +167,6 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 ### Trang chat
 ![Chat](images/Chat.png)
 
-### Trang thông báo
-![Thông báo](images/Thong_bao.png)
 
 ## Tính năng chính
 
