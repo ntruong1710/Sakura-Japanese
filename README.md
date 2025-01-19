@@ -63,7 +63,7 @@
 ![週間スケジュールページ](images/Lich_hoc_tuan.png)
 
 #### チャットページ
-![チャットページ](images/Chat.png)
+![チャットページ](images/Chat1.png)
 
 
 ### 主な機能
@@ -165,7 +165,7 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 ![Trang lich hoc tuan](images/Lich_hoc_tuan.png)
 
 ### Trang chat
-![Chat](images/Chat.png)
+![Chat](images/Chat1.png)
 
 
 ## Tính năng chính
