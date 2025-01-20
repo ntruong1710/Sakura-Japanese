@@ -76,17 +76,17 @@
 ### 使用技術
 
 - **インターフェースデザイン**: Figma。
-- **フロントエンド（予定）**: React、TailWind CSS。
+- **フロントエンド**: React、TailWind CSS。
 - **バックエンド（予定）**: Node.js、MongoDB。
 
 ### インストールと使用方法
 
-現在、このプロジェクトはFigmaを使用したインターフェースデザインのみを含んでいます。開発が完了次第、デプロイ手順を更新します。
+現在、プロジェクトはフロントエンド部分が完成しています。ローカルでクローンして実行するか、[デモビデオを見る](https://www.figma.com/proto/2veztJ7bWh1YxoK4zm9iwx/Nh%C3%B3m-2---%C4%90%E1%BB%93-%C3%A1n-IE106?page-id=0%3A1&node-id=2869-45681&viewport=-9873%2C-13811%2C0.28&t=1sC87wp83ULnDklq-1&scaling=scale-down-width&starting-point-node-id=2137%3A20840&content-scaling=fixed&show-proto-sidebar=1)をご覧ください。
 
 #### デモウェブを開く方法
-1. [デモリンク](https://www.figma.com/proto/2veztJ7bWh1YxoK4zm9iwx/Nh%C3%B3m-2---%C4%90%E1%BB%93-%C3%A1n-IE106?page-id=0%3A1&node-id=2869-45681&viewport=-9873%2C-13811%2C0.28&t=1sC87wp83ULnDklq-1&scaling=scale-down-width&starting-point-node-id=2137%3A20840&content-scaling=fixed&show-proto-sidebar=1)にアクセスします。
-2. 「Fit width」モードを選択し、「Full screen」モードで表示します。
-3. インターフェースと対話を開始します。桜日本語のプロトタイピングは非常に包括的で詳細に設計されており、実際のウェブサイトと何ら変わりありません。
+1.「npm install」コマンドを実行
+2.「npm run dev」コマンドを実行
+3. インターフェースを自分で探索し始めてください。
 
 ### 貢献
 
@@ -178,17 +178,17 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 ## Công nghệ sử dụng
 
 - **Thiết kế giao diện**: Figma.
-- **Frontend (dự kiến)**: React、TailWind CSS.
+- **Frontend**: React、TailWind CSS.
 - **Backend (dự kiến)**: Node.js, MongoDB.
 
 ## Cài đặt và sử dụng
 
-Hiện tại, dự án chỉ bao gồm phần thiết kế giao diện bằng Figma. Các bước triển khai sẽ được cập nhật sau khi phát triển hoàn thành.
+Hiện tại, dự án đã hoàn thành xong phần fontend, bạn có thể clone về rồi chạy local hoặc [Xem video demo](https://www.figma.com/proto/2veztJ7bWh1YxoK4zm9iwx/Nh%C3%B3m-2---%C4%90%E1%BB%93-%C3%A1n-IE106?page-id=0%3A1&node-id=2869-45681&viewport=-9873%2C-13811%2C0.28&t=1sC87wp83ULnDklq-1&scaling=scale-down-width&starting-point-node-id=2137%3A20840&content-scaling=fixed&show-proto-sidebar=1).
 
-### Cách mở web demo
-1. Truy cập [Link demo](https://www.figma.com/proto/2veztJ7bWh1YxoK4zm9iwx/Nh%C3%B3m-2---%C4%90%E1%BB%93-%C3%A1n-IE106?page-id=0%3A1&node-id=2869-45681&viewport=-9873%2C-13811%2C0.28&t=1sC87wp83ULnDklq-1&scaling=scale-down-width&starting-point-node-id=2137%3A20840&content-scaling=fixed&show-proto-sidebar=1).
-2. Chọn chế độ "Fit width" và xem ở chế độ "Full screen".
-3. Bắt đầu tương tác với giao diện. Prototyping của Sakura Japanese được thiết kế vô cùng đầy đủ và chi tiết, không khác gì một website thật.
+### Cách chạy
+1. Chạy câu lệnh "npm install"
+2. Chạy câu lệnh "npm run dev"
+3. Bắt đầu tự khám phá giao diện.
 
 ## Đóng góp
 
