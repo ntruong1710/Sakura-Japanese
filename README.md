@@ -47,7 +47,6 @@
 #### レッスンページ
 
 ![レッスンページ](images/Tu_vung.png)
-![リスニングページ](images/nghe.png)
 
 #### オンラインコースページ
 
@@ -81,7 +80,7 @@
 
 ### インストールと使用方法
 
-現在、プロジェクトはフロントエンド部分が完成しています。ローカルでクローンして実行するか、[デモビデオを見る](https://www.figma.com/proto/2veztJ7bWh1YxoK4zm9iwx/Nh%C3%B3m-2---%C4%90%E1%BB%93-%C3%A1n-IE106?page-id=0%3A1&node-id=2869-45681&viewport=-9873%2C-13811%2C0.28&t=1sC87wp83ULnDklq-1&scaling=scale-down-width&starting-point-node-id=2137%3A20840&content-scaling=fixed&show-proto-sidebar=1)をご覧ください。
+現在、プロジェクトはフロントエンド部分が完成しています。ローカルでクローンして実行するか、[デモビデオを見る](https://drive.google.com/file/d/1oiX1sKLQv3LhdEq4Wjf6TI1t6jsgqU01/view?usp=sharing)。
 
 #### デモウェブを開く方法
 1.「npm install」コマンドを実行
@@ -149,7 +148,6 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 ### Trang bài học
 
 ![Trang bài học](images/Tu_vung.png)
-![Trang nghe](images/nghe.png)
 
 ### Trang khóa học online
 
@@ -183,7 +181,7 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 
 ## Cài đặt và sử dụng
 
-Hiện tại, dự án đã hoàn thành xong phần fontend, bạn có thể clone về rồi chạy local hoặc [Xem video demo](https://www.figma.com/proto/2veztJ7bWh1YxoK4zm9iwx/Nh%C3%B3m-2---%C4%90%E1%BB%93-%C3%A1n-IE106?page-id=0%3A1&node-id=2869-45681&viewport=-9873%2C-13811%2C0.28&t=1sC87wp83ULnDklq-1&scaling=scale-down-width&starting-point-node-id=2137%3A20840&content-scaling=fixed&show-proto-sidebar=1).
+Hiện tại, dự án đã hoàn thành xong phần fontend, bạn có thể clone về rồi chạy local hoặc [Xem video demo](https://drive.google.com/file/d/1oiX1sKLQv3LhdEq4Wjf6TI1t6jsgqU01/view?usp=sharing).
 
 ### Cách chạy
 1. Chạy câu lệnh "npm install"
